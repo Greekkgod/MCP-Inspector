@@ -4,13 +4,13 @@ build-backend = "hatchling.build"
 
 [project]
 name = "hf-model-explorer-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "MCP server for searching, comparing, and hardware-sizing Hugging Face models"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [
-    { name = "Pradhumna Gaur", email = "gaurpradhumay@gmail.com" }
+    { name = "Pradhumay Gaur", email = "gaurpradhumay@gmail.com" }
 ]
 keywords = ["mcp", "model-context-protocol", "huggingface", "ai", "ml", "llm"]
 classifiers = [
