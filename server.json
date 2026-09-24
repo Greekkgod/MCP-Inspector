@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-16/server.schema.json",
+  "name": "io.github.YOUR_USERNAME/hf-model-explorer-mcp",
+  "description": "Search, compare, and hardware-size Hugging Face models via MCP tools.",
+  "status": "active",
+  "repository": {
+    "url": "https://github.com/YOUR_USERNAME/hf-model-explorer-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "hf-model-explorer-mcp",
+      "version": "0.1.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "runtimeHint": "uvx"
+    }
+  ]
+}

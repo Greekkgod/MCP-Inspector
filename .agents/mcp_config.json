@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hf-model-explorer": {
+      "command": "/Users/pradhumay/vs/hf-model-explorer-mcp/.venv/bin/python",
+      "args": [
+        "-m",
+        "hf_model_explorer_mcp.server"
+      ]
+    }
+  }
+}
