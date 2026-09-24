@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/hf-model-explorer-mcp"
-Repository = "https://github.com/YOUR_USERNAME/hf-model-explorer-mcp"
-Issues = "https://github.com/YOUR_USERNAME/hf-model-explorer-mcp/issues"
+Homepage = "https://github.com/Greekkgod/MCP-Inspector"
+Repository = "https://github.com/Greekkgod/MCP-Inspector"
+Issues = "https://github.com/Greekkgod/MCP-Inspector/issues"
 
 [project.scripts]
 hf-model-explorer-mcp = "hf_model_explorer_mcp.server:main"
